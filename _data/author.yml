@@ -2,7 +2,7 @@
 name: 蔡俊
 title: Android 开发工程师
 address: 中国, 上海
-email: liungkejin@foxmail.com
+email: 1181929342@qq.com
 github: jaimeai
 gavatar: /assets/img/avatar.JPG
 workHistory:
@@ -47,13 +47,13 @@ languages:
   proficiency: Limit
 programmingSkills:
 - Java:
-  name: Java/Android
+  name: C/C++
   percentage: 90%
 - Bash:
   name: Bash Shell
   percentage: 90%
 - CPP:
-  name: C/C++
+  name: Java/Android
   percentage: 70%
 - PHP:
   name: PHP
@@ -62,5 +62,3 @@ programmingSkills:
   name: Python
   percentage: 30%
 - Kotlin:
-  name: Kotlin
-  percentage: 70%
